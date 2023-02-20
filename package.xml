@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+  <name>qt_create</name>
+  <version>0.2.10</version>
+  <description>
+     Provides templates and scripts for creating qt-ros packages
+     (similar to roscreate-pkg).
+  </description>
+  <maintainer email="menggu1234@naver.com"></maintainer>
+  <license>BSD</license>
+
+  <url type="bugtracker">https://github.com/mjlee111/qt_create/issues</url>
+  <url type="repository">https://github.com/mjlee111/qt_create</url>
+
+  <author>mjlee</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>qt_build</build_depend>
+</package>
