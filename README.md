@@ -3,7 +3,7 @@
 ## This package is for making QT based GUI ROS package in terminal.
 
 ## Because ARM PC's can't install qt_ros_plugin, you can use this package to make fully fuctional QT ROS package.
-## If you want to know how this works, please go to this repo -> https://github.com/mjlee111/qtros
+### If you want to know how this works, please go to this repo -> https://github.com/mjlee111/qtros
 
 ### Enter 
 ```
